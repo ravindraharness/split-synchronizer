@@ -1,0 +1,187 @@
+splitio/proxy/controllers/events_test.go
+  human 15,632-667
+splitio/proxy/controllers/sdk_test.go
+  human 23,796-822
+splitio/proxy/initialization_offline.go
+  human 24,54-74,83,99
+CHANGES.txt
+  human 5-12
+splitio/admin/common/config.go
+  human 13-16
+splitio/proxy/initialization.go
+  human 62,150
+splitio/version.go
+  human 5
+splitio/proxy/initialization_offline_test.go
+  human 7,10,167-231
+splitio/proxy/snapshotcheck_test.go
+  human 4-5,8,10,38-46,59-79
+splitio/proxy/initialization_test.go
+  human 12,15,256-281
+splitio/common/runtime.go
+  human 138-139
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 37,
+          "added_lines": 37,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "15,632-667",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/controllers/events_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "23,796-822",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/controllers/sdk_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 24,
+          "added_lines": 24,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "24,54-74,83,99",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_offline.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 8,
+          "added_lines": 8,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "5-12",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "CHANGES.txt"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 4,
+          "added_lines": 4,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "13-16",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/admin/common/config.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 2,
+          "hash": "human",
+          "lines": "62,150",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "5",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/version.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 67,
+          "added_lines": 67,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "7,10,167-231",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_offline_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 34,
+          "added_lines": 34,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "4-5,8,10,38-46,59-79",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/snapshotcheck_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "12,15,256-281",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 2,
+          "hash": "human",
+          "lines": "138-139",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/common/runtime.go"
+    }
+  ],
+  "base_commit_sha": "31dd1bbf509a522603bc20ef6ef3b74413165fac",
+  "branch": "plan-test-5.14.0-fixes",
+  "commit_sha": "38163ff6be25bfc812e72387f084149a68341273",
+  "commit_type": "commit_amend",
+  "harness_aidlc_version": "1.4.35",
+  "prompts": {
+    "human": {
+      "accepted_lines": 233,
+      "agent_id": null,
+      "human_author": null,
+      "overriden_lines": 0,
+      "total_additions": 233,
+      "total_deletions": 5
+    }
+  },
+  "repo": "https://git0.harness.io/l7B_kbSEQD2wjrM7PShm5w/PROD/Harness_Split/split-synchronizer",
+  "schema_version": "authorship/3.0.0"
+}
