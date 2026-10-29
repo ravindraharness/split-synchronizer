@@ -1,0 +1,233 @@
+splitio/proxy/snapshotcheck_test.go
+  human 4-5,8,10,38-46,59-79
+splitio/admin/common/config.go
+  human 13-16
+splitio/proxy/initialization_offline.go
+  human 24,54-74,83,99
+splitio/proxy/controllers/sdk_test.go
+  human 23,796-822
+.gitignore
+  human 79
+splitio/proxy/initialization_test.go
+  human 12,15,93,256-281
+docker/Dockerfile.synchronizer
+  human 2
+splitio/proxy/initialization.go
+  human 62,150
+docker/Dockerfile.proxy
+  human 2
+CHANGES.txt
+  human 5-12,14
+splitio/proxy/controllers/events_test.go
+  human 15,156,160,164,168,172,213,216,632-667
+splitio/proxy/initialization_offline_test.go
+  human 7,10,167-231
+splitio/version.go
+  human 5
+splitio/common/runtime.go
+  human 138-139
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 34,
+          "added_lines": 34,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "4-5,8,10,38-46,59-79",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/snapshotcheck_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 4,
+          "added_lines": 4,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "13-16",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/admin/common/config.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 24,
+          "added_lines": 24,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "24,54-74,83,99",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_offline.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 28,
+          "added_lines": 28,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "23,796-822",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/controllers/sdk_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "79",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".gitignore"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 29,
+          "added_lines": 29,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "12,15,93,256-281",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "2",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "docker/Dockerfile.synchronizer"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 2,
+          "hash": "human",
+          "lines": "62,150",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "2",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "docker/Dockerfile.proxy"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 9,
+          "added_lines": 9,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "5-12,14",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "CHANGES.txt"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 44,
+          "added_lines": 44,
+          "deleted_lines": 7,
+          "hash": "human",
+          "lines": "15,156,160,164,168,172,213,216,632-667",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/controllers/events_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 67,
+          "added_lines": 67,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "7,10,167-231",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_offline_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "5",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/version.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 0,
+          "added_lines": 0,
+          "deleted_lines": 2,
+          "hash": "human",
+          "lines": "138-139",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/common/runtime.go"
+    }
+  ],
+  "base_commit_sha": "31dd1bbf509a522603bc20ef6ef3b74413165fac",
+  "branch": "plan-test-5.14.0-fixes",
+  "commit_sha": "253f221e366f5393a708618c21fb6ad22e11448e",
+  "commit_time": "2026-10-29T20:25:17+05:30",
+  "commit_type": "direct_commit",
+  "harness_aidlc_version": "1.4.35",
+  "prompts": {
+    "human": {
+      "accepted_lines": 245,
+      "agent_id": null,
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>",
+      "overriden_lines": 0,
+      "total_additions": 245,
+      "total_deletions": 16
+    }
+  },
+  "repo": "https://git0.harness.io/l7B_kbSEQD2wjrM7PShm5w/PROD/Harness_Split/split-synchronizer",
+  "schema_version": "authorship/3.0.0"
+}
