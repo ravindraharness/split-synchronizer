@@ -1,0 +1,458 @@
+splitio/proxy/offline_overrides.go
+  human 1-60
+splitio/proxy/offline_overrides_test.go
+  human 1-235
+splitio/common/snapshot/snapshot.go
+  human 6,9,42-43,45-55,86-88,142-152,157
+splitio/proxy/initialization.go
+  human 43-50,69-75,77
+splitio/proxy/snapshotcheck.go
+  human 1-35
+splitio/proxy/conf/sections.go
+  human 26,50
+splitio/common/snapshot/snapshot_test.go
+  human 43-67
+splitio/proxy/overrides/apply_test.go
+  human 1-145
+splitio/proxy/overrides/overrides.go
+  human 1-184
+splitio/proxy/snapshotcheck_test.go
+  human 1-45
+splitio/proxy/controllers/sdk_test.go
+  human 199-260
+.gitignore
+  human 17
+splitio/proxy/storage/mocks/mocks.go
+  human 21-25
+splitio/proxy/offline_runtime.go
+  human 1-93
+splitio/proxy/overrides/apply.go
+  human 1-53
+splitio/admin/controllers/snapshot.go
+  human 17-20,23-26,44-50
+splitio/admin/admin.go
+  human 45-46,102-106
+splitio/admin/controllers/snapshot_test.go
+  human 32,50,57
+splitio/proxy/tasks/noop.go
+  human 1-17
+splitio/proxy/initialization_offline_test.go
+  human 1-164
+splitio/proxy/initialization_offline.go
+  human 1-178
+go.mod
+  human 11-12,49,54
+splitio/proxy/proxy.go
+  human 13,97-103,180,190-196
+splitio/proxy/controllers/sdk_overrides_test.go
+  human 1-257
+splitio/proxy/overrides/overrides_test.go
+  human 1-229
+go.sum
+  human 77-80
+CHANGES.txt
+  human 1-8
+splitio/proxy/storage/mocks/rbsstorage.go
+  human 16-23
+splitio/proxy/controllers/sdk.go
+  human 37-47,74-85,232-235,246-260,293-347
+---
+{
+  "attestations": [
+    {
+      "entries": [
+        {
+          "accepted_lines": 60,
+          "added_lines": 60,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-60",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/offline_overrides.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 235,
+          "added_lines": 235,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-235",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/offline_overrides_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 30,
+          "added_lines": 30,
+          "deleted_lines": 7,
+          "hash": "human",
+          "lines": "6,9,42-43,45-55,86-88,142-152,157",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/common/snapshot/snapshot.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 16,
+          "added_lines": 16,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "43-50,69-75,77",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 35,
+          "added_lines": 35,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-35",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/snapshotcheck.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 2,
+          "added_lines": 2,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "26,50",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/conf/sections.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 25,
+          "added_lines": 25,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "43-67",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/common/snapshot/snapshot_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 145,
+          "added_lines": 145,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-145",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/overrides/apply_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 184,
+          "added_lines": 184,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-184",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/overrides/overrides.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 45,
+          "added_lines": 45,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-45",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/snapshotcheck_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 62,
+          "added_lines": 62,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "199-260",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/controllers/sdk_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 1,
+          "added_lines": 1,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "17",
+          "overridden_lines": 0
+        }
+      ],
+      "file": ".gitignore"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 5,
+          "added_lines": 5,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "21-25",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/storage/mocks/mocks.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 93,
+          "added_lines": 93,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-93",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/offline_runtime.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 53,
+          "added_lines": 53,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-53",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/overrides/apply.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 15,
+          "added_lines": 15,
+          "deleted_lines": 7,
+          "hash": "human",
+          "lines": "17-20,23-26,44-50",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/admin/controllers/snapshot.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 7,
+          "added_lines": 7,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "45-46,102-106",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/admin/admin.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 3,
+          "added_lines": 3,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "32,50,57",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/admin/controllers/snapshot_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 17,
+          "added_lines": 17,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-17",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/tasks/noop.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 164,
+          "added_lines": 164,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-164",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_offline_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 178,
+          "added_lines": 178,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-178",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/initialization_offline.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 4,
+          "added_lines": 4,
+          "deleted_lines": 4,
+          "hash": "human",
+          "lines": "11-12,49,54",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "go.mod"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 16,
+          "added_lines": 16,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "13,97-103,180,190-196",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/proxy.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 257,
+          "added_lines": 257,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-257",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/controllers/sdk_overrides_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 229,
+          "added_lines": 229,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-229",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/overrides/overrides_test.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 4,
+          "added_lines": 4,
+          "deleted_lines": 18,
+          "hash": "human",
+          "lines": "77-80",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "go.sum"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 8,
+          "added_lines": 8,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "1-8",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "CHANGES.txt"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 8,
+          "added_lines": 8,
+          "deleted_lines": 1,
+          "hash": "human",
+          "lines": "16-23",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/storage/mocks/rbsstorage.go"
+    },
+    {
+      "entries": [
+        {
+          "accepted_lines": 97,
+          "added_lines": 97,
+          "deleted_lines": 0,
+          "hash": "human",
+          "lines": "37-47,74-85,232-235,246-260,293-347",
+          "overridden_lines": 0
+        }
+      ],
+      "file": "splitio/proxy/controllers/sdk.go"
+    }
+  ],
+  "base_commit_sha": "757eb3fecc3a5270d80146bb47af18ee2e62b83b",
+  "branch": "plan-test-5.14.0-fixes",
+  "commit_sha": "0ed68ba811f8a3b38c28bb9a69567dacb6e2c265",
+  "commit_time": "2026-10-29T20:13:45+05:30",
+  "commit_type": "direct_commit",
+  "harness_aidlc_version": "1.4.35",
+  "prompts": {
+    "human": {
+      "accepted_lines": 1998,
+      "agent_id": null,
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>",
+      "overriden_lines": 0,
+      "total_additions": 1998,
+      "total_deletions": 41
+    }
+  },
+  "repo": "https://git0.harness.io/l7B_kbSEQD2wjrM7PShm5w/PROD/Harness_Split/split-synchronizer",
+  "schema_version": "authorship/3.0.0"
+}
