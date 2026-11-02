@@ -1,0 +1,34 @@
+splitio/proxy/telemetry_period_test.go
+  2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f 1-28
+splitio/proxy/initialization.go
+  s_2e6769f1367895::t_c081af28b75383 170,362-370
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5a8ac0f24fa2eb7f01412ada5d1b9bf4ad4ca2c0",
+  "prompts": {
+    "2e6769f1367895ed": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>",
+      "total_additions": 28,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_2e6769f1367895": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
