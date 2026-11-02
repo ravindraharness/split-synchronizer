@@ -1,0 +1,38 @@
+splitio/proxy/adminconfig_test.go
+  2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f 1-157
+splitio/proxy/adminconfig.go
+  2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f 1-34
+splitio/proxy/initialization.go
+  s_2e6769f1367895::t_d8b2c3c31e6969 243-244,268
+splitio/proxy/initialization_offline.go
+  s_2e6769f1367895::t_e6838de7911b39 130-131,156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c9a748af7a8d4c30a1ef2f8f2ded17627e81ca40",
+  "prompts": {
+    "2e6769f1367895ed": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>",
+      "total_additions": 191,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_2e6769f1367895": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
