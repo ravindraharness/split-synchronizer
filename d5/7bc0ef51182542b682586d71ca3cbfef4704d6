@@ -1,0 +1,19 @@
+splitio/proxy/adminconfig_test.go
+  s_2e6769f1367895::t_de50498016a1dc 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d57bc0ef51182542b682586d71ca3cbfef4704d6",
+  "prompts": {},
+  "sessions": {
+    "s_2e6769f1367895": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2fcaa0d5-5273-48e1-b376-b1e5ad9a4f3f",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
