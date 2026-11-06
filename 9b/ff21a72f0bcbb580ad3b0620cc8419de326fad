@@ -1,0 +1,164 @@
+splitio/producer/initialization.go
+  s_114366224360ab::t_b2111f20cc7f63 71
+splitio/util/utils_test.go
+  s_114366224360ab::t_80dbc0b2a057d6 9,15-36
+  s_114366224360ab::t_63bf703c8bac13 37
+splitio/common/redis_test.go
+  s_114366224360ab::t_c81205299d952e 1-72
+splitio/util/utils.go
+  s_114366224360ab::t_c611dd379cdf04 22-27
+  s_114366224360ab::t_4bc51f0a0cb156 6
+splitio/proxy/storage/redisstate/keys.go
+  s_114366224360ab::t_00994b8e76abf1 51,63-65
+  s_114366224360ab::t_577a24077c7aaa 16-17
+  s_114366224360ab::t_c878283cefebad 25-26
+  s_114366224360ab::t_d956686470d6cb 13-15
+  s_114366224360ab::t_2c013bfb643839 18-20,22-24
+  s_114366224360ab::t_fbeabd630a81f4 27-29,48-50
+  s_114366224360ab::t_949b6eb678d9d8 52-54,60-62
+  s_114366224360ab::t_a8364bf7837637 66-68
+  s_b2e431fa61f71c::t_690bc8979e4565 1-12,21,30-47,55-59,69-118
+splitio/proxy/storage/redisstate/script.go
+  s_114366224360ab::t_82f410a9586172 25-33,41-42
+  s_114366224360ab::t_98388ddb9ad8a3 23-24,37,40,54,63-64,68,75,89-104,108,111,114,122-124,131,136-137,141,147
+  s_114366224360ab::t_929921f3a84391 20-22
+  s_114366224360ab::t_95c85414b1607f 34-36
+  s_114366224360ab::t_13e20d400c4b6e 38-39
+  s_114366224360ab::t_b29f92e9c63b33 43-45,51-53
+  s_114366224360ab::t_ec5c942d953c95 55-57,60-62
+  s_114366224360ab::t_78320d868bd63c 65-67
+  s_114366224360ab::t_7157c59473462c 69-74
+  s_114366224360ab::t_95764038200ee2 76-78,86-88
+  s_114366224360ab::t_c7c242ad4d0c02 105-107
+  s_114366224360ab::t_446592c4c07928 109-110
+  s_114366224360ab::t_9a6562834fc982 112-113
+  s_114366224360ab::t_32dfefb376705c 115-117,119-121
+  s_114366224360ab::t_0a75d4741e02b9 125-130
+  s_114366224360ab::t_9b4f8091d33491 132-135
+  s_114366224360ab::t_dcc385a7a78bf1 138-140
+  s_114366224360ab::t_ebf0fb000cfb8f 142-146
+  s_114366224360ab::t_4e49f9b198b19a 148-150
+  s_114366224360ab::t_13a781c8d740f1 1-19,46-50,58-59,79-85,118,151-152
+splitio/proxy/redisstate_test.go
+  s_80c23cbe0cbc6c::t_cc5207f3922ece 233
+  s_80c23cbe0cbc6c::t_d65f46311b5882 230-232
+  s_80c23cbe0cbc6c::t_d8aa07be23f848 234-236
+  s_80c23cbe0cbc6c::t_02a9905222fed9 1-229,237-261
+splitio/producer/conf/sections.go
+  s_114366224360ab::t_984b1a762fa7e4 46
+  s_114366224360ab::t_e96f40f1570ded 45
+splitio/proxy/storage/redisstate/writer.go
+  s_114366224360ab::t_5176dd43113e8c 1-689,691-693
+  s_80c23cbe0cbc6c::t_664abe29d51971 690,694-799
+splitio/common/redis.go
+  s_114366224360ab::t_365e93006e05e4 1-94
+splitio/proxy/storage/redisstate/script_test.go
+  s_114366224360ab::t_0ed39d9306fe5c 205,212,229,233,252,258,274,281,288,305,423-434
+  s_114366224360ab::t_89be45bcf63074 315,318,322,326,335-375
+  s_114366224360ab::t_2654715e659c45 202-204
+  s_114366224360ab::t_b3419b64119224 206-211
+  s_114366224360ab::t_5f075bc773800b 213-215,226-228
+  s_114366224360ab::t_5c436cc9c86105 230-232
+  s_114366224360ab::t_5a3e345cf35812 234-236,249-251
+  s_114366224360ab::t_9bcea5c0e511da 253-257
+  s_114366224360ab::t_a6a6da76e6b072 259-261,271-273
+  s_114366224360ab::t_6e08ad53485917 275-280
+  s_114366224360ab::t_34dcfcb6fc2c25 282-287
+  s_114366224360ab::t_45b1004c9866cf 289-291,302-304
+  s_114366224360ab::t_89db0312060133 306-308,312-314
+  s_114366224360ab::t_2f931541064177 316-317
+  s_114366224360ab::t_0092b7c5589c1a 319-321
+  s_114366224360ab::t_67ce2fa686613a 323-325
+  s_114366224360ab::t_25fc08e52b30c0 327-329,332-334
+  s_114366224360ab::t_9b986fa5ab30f4 376-378,420-422
+  s_114366224360ab::t_39dac1a0b2ff87 435-437
+  s_114366224360ab::t_7ee2a260e5d9b7 1-201,216-225,237-248,262-270,292-301,309-311,330-331,379-419,438-454
+splitio/common/conf/sections.go
+  s_114366224360ab::t_b7d23104a9399c 50-77
+splitio/proxy/conf/sections.go
+  s_114366224360ab::t_0b66a308c0159f 66-77
+splitio/proxy/storage/redisstate/keys_test.go
+  s_114366224360ab::t_ac6fb3d111f954 34,41,53-54,61,64-73,140
+  s_114366224360ab::t_f7725b6d078069 31-33
+  s_114366224360ab::t_c4a477e663a472 35-40
+  s_114366224360ab::t_a6fe0ce801ba61 42-44,50-52
+  s_114366224360ab::t_22be12076084a5 55-60
+  s_114366224360ab::t_c933750ebde258 62-63
+  s_114366224360ab::t_2b8713cc1b72b5 74-76,137-139
+  s_114366224360ab::t_45bfac4d8e432f 141-142
+  s_114366224360ab::t_0c2ba7b68157c5 1-30,45-49,77-136
+splitio/admin/common/config.go
+  s_80c23cbe0cbc6c::t_ac58755b59b2b2 6,33-34
+splitio/admin/controllers/observability.go
+  s_80c23cbe0cbc6c::t_39d17e961812f8 9,49-53,62,68-72,103-107
+splitio/admin/controllers/observability_test.go
+  s_80c23cbe0cbc6c::t_34782b4e4e8f94 13,231-340
+splitio/proxy/conf/sections_test.go
+  s_80c23cbe0cbc6c::t_0f761a35e50f9c 6-7,66-114
+splitio/proxy/initialization.go
+  s_80c23cbe0cbc6c::t_4adbe1bb2fbe9e 43-46,117-123,252-254,257-258
+splitio/proxy/initialization_offline.go
+  s_80c23cbe0cbc6c::t_5bb0367b736bc0 75-86,143-144
+splitio/proxy/redisstate.go
+  s_80c23cbe0cbc6c::t_b352b036ebd592 1-90
+splitio/proxy/storage/persistent/segments.go
+  s_80c23cbe0cbc6c::t_3e8128cb36a2e2 200-210
+splitio/proxy/storage/persistent/segments_test.go
+  s_80c23cbe0cbc6c::t_81d1ef46b1453c 186-226
+splitio/proxy/storage/redissource.go
+  s_80c23cbe0cbc6c::t_0a5a3cc02cd04b 1-111
+splitio/proxy/storage/redissource_test.go
+  s_80c23cbe0cbc6c::t_c351a5c5921338 1-192
+splitio/proxy/storage/redisstate/bench_test.go
+  s_80c23cbe0cbc6c::t_33f082ad9731be 1-269
+splitio/proxy/storage/redisstate/resync.go
+  s_80c23cbe0cbc6c::t_f2ea7e1cc008f3 1-152
+splitio/proxy/storage/redisstate/resync_test.go
+  s_80c23cbe0cbc6c::t_c5b09f9f62430f 1-193
+splitio/proxy/storage/redisstate/writer_test.go
+  s_80c23cbe0cbc6c::t_4003cef1eb4ec7 1-934
+splitio/proxy/storage/rulebasedsegments.go
+  s_80c23cbe0cbc6c::t_0a030d0b028dd9 9,33-39,216-218
+splitio/proxy/storage/rulebasedsegments_test.go
+  s_80c23cbe0cbc6c::t_7d49c63b490498 184-242
+splitio/proxy/storage/segments.go
+  s_80c23cbe0cbc6c::t_088fb73ffd29f1 10,35-41,154-156,234-248
+splitio/proxy/storage/segments_test.go
+  s_80c23cbe0cbc6c::t_f825e9b98d2dc2 4-5,147-206
+splitio/proxy/storage/splits.go
+  s_80c23cbe0cbc6c::t_bf67ad991f6e3f 11,40,65-70,135-137
+splitio/proxy/storage/splits_test.go
+  s_80c23cbe0cbc6c::t_cad0e0f2096c57 405-462
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9bff21a72f0bcbb580ad3b0620cc8419de326fad",
+  "prompts": {},
+  "sessions": {
+    "s_114366224360ab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b158586c-2f65-47a8-b777-c1324413c63d",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_80c23cbe0cbc6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fdeb0162-bb9d-4b27-bb2b-488b403fd06f",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_b2e431fa61f71c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6d20dac0-e096-4b3a-99ec-11db00330e0e",
+        "model": "unknown"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
