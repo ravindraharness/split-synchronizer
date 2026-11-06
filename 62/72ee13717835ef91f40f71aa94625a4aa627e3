@@ -1,0 +1,19 @@
+splitio/proxy/storage/redisstate/bench_test.go
+  s_80c23cbe0cbc6c::t_b25e1c31ea5909 40,43-44,46-47,49-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6272ee13717835ef91f40f71aa94625a4aa627e3",
+  "prompts": {},
+  "sessions": {
+    "s_80c23cbe0cbc6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fdeb0162-bb9d-4b27-bb2b-488b403fd06f",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
