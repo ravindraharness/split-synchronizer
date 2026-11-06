@@ -1,0 +1,50 @@
+splitio/proxy/storage/redisstate/script.go
+  s_c875231a9121d0::t_be6457b502dbaa 113
+  s_c875231a9121d0::t_ec53e2c0bec63d 41
+splitio/proxy/storage/redisstate/writer_test.go
+  s_c875231a9121d0::t_f7a04ea2346c72 296-330,332-383
+  s_c875231a9121d0::t_f7320406b8129a 331
+  s_c875231a9121d0::t_2fef10893a3d2a 8
+splitio/proxy/storage/redisstate/keys.go
+  s_c875231a9121d0::t_105c0e33c5192c 20-26
+  s_c875231a9121d0::t_18838ef575e05c 92-141,144,149,154
+splitio/proxy/storage/redisstate/keys_test.go
+  s_c875231a9121d0::t_4781e1bc2f31bb 17-41
+splitio/proxy/storage/redisstate/script_test.go
+  s_c875231a9121d0::t_032289b9e9072e 331-349
+  s_7e5da74d02e50d::t_1231c55fcf148d 350-364
+  s_c875231a9121d0::t_91d897b72345a9 145-146,148,151,155-176
+splitio/proxy/storage/redisstate/writer.go
+  s_c875231a9121d0::t_e719e7f0339246 7
+  s_c875231a9121d0::t_e5a0c2110180b1 743
+  s_c875231a9121d0::t_bc3e8e6545a4fa 19-20
+  s_c875231a9121d0::t_ccb8ccb9ad3123 799
+  s_c875231a9121d0::t_ff95f88c996987 651-717
+splitio/proxy/storage/redisstate/resync.go
+  s_c875231a9121d0::t_550e27dfe697db 37
+  s_c875231a9121d0::t_38daa7b2bcf47f 136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a725205a31e5ec23357eb0389129b4bd76c420cf",
+  "prompts": {},
+  "sessions": {
+    "s_7e5da74d02e50d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5cfaabb1-9325-4031-8ecf-cdbcabde96eb",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_c875231a9121d0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9ca378df-3f42-4961-b17a-0fb3ac38d1d5",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
