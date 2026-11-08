@@ -1,0 +1,98 @@
+splitio/proxy/storage/redisstate/reader.go
+  s_873ef7d2e2462c::t_6132c0c9dd079e 214-216
+  s_873ef7d2e2462c::t_4b828597bd6d08 9,54-57,61,63-70,101-117,121,128-132,135-161,164-169,173-177,181,217-220,247-252,260-265,295-316,340,348-363,366-367,382,386,394,406,413-415,431-433,467-468,476-486
+splitio/proxy/storage/splits_test.go
+  s_88ad563b2a73d0::t_864960ba2a0f73 16
+  s_88ad563b2a73d0::t_b7fa1f0dcd6719 440-459
+  s_88ad563b2a73d0::t_654924d156d4e0 4
+splitio/proxy/storage/rulebasedsegments.go
+  s_88ad563b2a73d0::t_2781ff722a7a1d 215-220
+splitio/proxy/storage/rulebasedsegments_test.go
+  s_88ad563b2a73d0::t_b8050d36ddc5f3 216-230
+splitio/proxy/storage/splits.go
+  s_88ad563b2a73d0::t_0303c08882e370 134-139
+splitio/proxy/initialization_test.go
+  s_f74c6cbc1110b6::t_9783745a02d4c4 639
+  s_873ef7d2e2462c::t_66ef5182ee8ae9 640-643
+  s_873ef7d2e2462c::t_2439f0fd65102f 3-4,476,504,525,542-564,567,610,621-626
+splitio/proxy/storage/redisstate/reader_test.go
+  s_873ef7d2e2462c::t_11de621f8f0afa 3-4
+  s_873ef7d2e2462c::t_384a25f49852a6 525
+  s_0eb7772164ad1f::t_51125afca50e37 146,577-596
+splitio/proxy/redisboot.go
+  s_f74c6cbc1110b6::t_9783745a02d4c4 113
+  s_873ef7d2e2462c::t_3a7a4566b57da8 26,28,59,65,70,75,79-80,86,92,111,120,135,137,139
+splitio/proxy/redisresync_test.go
+  s_f74c6cbc1110b6::t_786e2b19a4021a 140,150
+  s_f74c6cbc1110b6::t_ddb9c04d35c74f 59-64,89-91,93,113-115
+  s_f74c6cbc1110b6::t_799c9fbd98eb20 7-9,11,32,120-139,141-149,151-187
+  s_873ef7d2e2462c::t_d64aa4a4ac582f 3-4,188
+splitio/proxy/storage/redisstate/reader_realredis_test.go
+  s_873ef7d2e2462c::t_c409a3f0cf6464 3-4,8,13
+  s_873ef7d2e2462c::t_cb88cabc905f53 29-46,50,56-57
+  s_873ef7d2e2462c::t_5d9287594648bf 178-215
+splitio/proxy/initialization.go
+  s_873ef7d2e2462c::t_0da3e860a86f61 44-48,67,111,140-144,151
+splitio/proxy/redisboot_test.go
+  s_873ef7d2e2462c::t_bc398cc4f2232c 3-4,9,13,15,34-52,152,190-192,197-198,205-218,221-235,361,370
+splitio/proxy/redisstate.go
+  s_873ef7d2e2462c::t_670823fd02ddf3 56-61,104-106
+splitio/proxy/storage/persistent/boltdb.go
+  s_873ef7d2e2462c::t_4c85c51fc44aa2 146-154,168,172-173,193,197-198,228,232-233
+splitio/proxy/storage/persistent/rulebasedsegments.go
+  s_873ef7d2e2462c::t_26ed91dde2f9e5 7-8,32-33,35-42,44,48,70-71,75
+splitio/proxy/storage/persistent/rulebasedsegments_test.go
+  s_873ef7d2e2462c::t_6e5813d18a6939 61-94
+splitio/proxy/storage/persistent/splits.go
+  s_873ef7d2e2462c::t_b9352f8662c1fc 7-8,32-33,35-42,44,48,70-71,75
+splitio/proxy/storage/persistent/splits_test.go
+  s_873ef7d2e2462c::t_e7a0b5ba031ce3 4-6,11-12,15-101
+splitio/proxy/storage/redisrestore.go
+  s_873ef7d2e2462c::t_7824465e9508d7 39-44,66,73,88-108,121,123-126,130-131,146,148-151,188,194-195,204-206,209
+splitio/proxy/storage/redisrestore_test.go
+  s_873ef7d2e2462c::t_9243621e0285dd 4,16,182-305
+splitio/proxy/storage/redisstate/readclient_test.go
+  s_873ef7d2e2462c::t_8e73dda10493dd 5,135-205
+splitio/proxy/storage/redisstate/reader_gaps_test.go
+  s_873ef7d2e2462c::t_c724427fcc8703 6,8,103-104,106-276,279-280,282-412,431,437,443,448
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "847858d65cc53eeb8059405632dbdf602de24449",
+  "prompts": {},
+  "sessions": {
+    "s_0eb7772164ad1f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-af590bb5b76af4283",
+        "model": "unknown"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_873ef7d2e2462c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bfdf2be9-8c26-419e-bf23-0daaaef32640",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_88ad563b2a73d0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4c94cd27-c51b-4f6d-aef7-8902ac4a639c",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_f74c6cbc1110b6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f5a565ef-e4a2-4e28-8421-405baba2fa7e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
