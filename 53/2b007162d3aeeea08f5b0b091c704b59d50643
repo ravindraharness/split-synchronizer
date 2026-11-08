@@ -1,0 +1,59 @@
+splitio/proxy/storage/redisstate/script_test.go
+  s_381c8dd7fabb1e::t_c0449474ead822 490,494,500,503,506,516-541
+  s_381c8dd7fabb1e::t_4bc0c694090c4f 488-489,491-493,495-499,501-502,504-505,507-515
+splitio/proxy/storage/redisstate/resync_test.go
+  s_381c8dd7fabb1e::t_0563b51a7bb3f3 315
+  s_381c8dd7fabb1e::t_370e757a2c5f57 262,276-278
+  s_381c8dd7fabb1e::t_4eac85d8009c98 6,11,215-217,227,279-314,316-345,347-348,350-366
+  s_381c8dd7fabb1e::t_a172cd78184f2f 346
+  s_381c8dd7fabb1e::t_fdabe4e767330c 200,204,206,367-410
+  s_381c8dd7fabb1e::t_7d473441db3115 349
+  s_381c8dd7fabb1e::t_498f8af882dd80 5,8,210-214,218-226,228-261,263-275
+  s_381c8dd7fabb1e::t_1adfbfe6b6e614 198-199,201-203,205,207-209
+splitio/proxy/storage/redisstate/writer_test.go
+  s_381c8dd7fabb1e::t_370e757a2c5f57 111,121-131
+  s_381c8dd7fabb1e::t_18f94fcac45d1e 48-50,54-55,93,1070,1072,1074,1076,1081,1085-1086,1088,1090,1097-1101,1103,1106-1150
+  s_381c8dd7fabb1e::t_fc55109f039d26 30-37,42-47,51-53,79-82,89-92,94,643-644,1064-1069,1071,1073,1075,1077-1080,1082-1084,1087,1089,1091-1096,1102,1104-1105
+splitio/proxy/redisstate_test.go
+  s_381c8dd7fabb1e::t_27c0cb7efe7c65 331-338
+  s_381c8dd7fabb1e::t_49aacf3f566afa 8,263-330,339-346
+splitio/proxy/storage/redisstate/resync.go
+  s_381c8dd7fabb1e::t_155532a21c1e6e 130-131,137-140
+  s_381c8dd7fabb1e::t_c71c91757ab677 4,43-50,141-145,169-187
+splitio/proxy/storage/redissource.go
+  s_8a65cf4a9af837::t_af99982a679cae 27-30,33-41,43-45,62,64
+splitio/proxy/storage/redisstate/keys.go
+  s_8a65cf4a9af837::t_a0003c8f4e0921 92-97
+splitio/proxy/storage/redisstate/script.go
+  s_381c8dd7fabb1e::t_89684535dbeaba 12-15,119-121,161-185
+splitio/proxy/storage/redisstate/writer.go
+  s_381c8dd7fabb1e::t_3efd5f2edfe9ec 30-31,50-52,165,264,274-294,556-557,600,626-641,827,898
+splitio/proxy/storage/segments.go
+  s_8a65cf4a9af837::t_8a4a86e10cfd7e 154
+splitio/proxy/storage/segments_test.go
+  s_8a65cf4a9af837::t_885938299b39f0 201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "532b007162d3aeeea08f5b0b091c704b59d50643",
+  "prompts": {},
+  "sessions": {
+    "s_381c8dd7fabb1e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "029222f4-28ed-4a7b-a1f3-58a1bf0bdaf0",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_8a65cf4a9af837": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "45a580df-206d-4177-8580-fa1ba6f3a2d4",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
