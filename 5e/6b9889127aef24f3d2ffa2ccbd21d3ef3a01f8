@@ -1,0 +1,51 @@
+splitio/admin/common/config.go
+  s_7378bc50c40b95::t_be943066a96139 6,33-34
+splitio/admin/controllers/observability.go
+  s_7378bc50c40b95::t_3be4b93a533be7 9,49-53,62,68-72,103-107
+splitio/admin/controllers/observability_test.go
+  s_7378bc50c40b95::t_d2859eb281bf33 13,231-340
+splitio/proxy/initialization.go
+  s_7378bc50c40b95::t_9a7c8c3c286903 43-46,117-123,252-254,257-258
+splitio/proxy/initialization_offline.go
+  s_7378bc50c40b95::t_c5527d33135737 75-86,143-144
+splitio/proxy/redisstate.go
+  s_7378bc50c40b95::t_4b4df5cc5d5685 1-164
+splitio/proxy/redisstate_test.go
+  s_7378bc50c40b95::t_eb7b3d910ce0de 1-691
+splitio/proxy/storage/persistent/segments.go
+  s_7378bc50c40b95::t_e52b71a8ca3e06 200-210
+splitio/proxy/storage/persistent/segments_test.go
+  s_7378bc50c40b95::t_f8edb4caa80b99 186-226
+splitio/proxy/storage/redissource.go
+  s_7378bc50c40b95::t_37a15f331b3adf 1-120
+splitio/proxy/storage/redissource_test.go
+  s_7378bc50c40b95::t_cb756c8be71230 1-192
+splitio/proxy/storage/rulebasedsegments.go
+  s_7378bc50c40b95::t_a1ee89d28166f5 9,33-39,216-218
+splitio/proxy/storage/rulebasedsegments_test.go
+  s_7378bc50c40b95::t_da9da4af98c69b 184-263
+splitio/proxy/storage/segments.go
+  s_7378bc50c40b95::t_7ad6acd09b941a 10,35-41,154-159,237-251
+splitio/proxy/storage/segments_test.go
+  s_7378bc50c40b95::t_2681c8ee82e8be 4-5,147-291
+splitio/proxy/storage/splits.go
+  s_7378bc50c40b95::t_e986ce6ff62e0d 11,40,65-70,135-137
+splitio/proxy/storage/splits_test.go
+  s_7378bc50c40b95::t_c884b72c811002 4,15-16,20-28,417-495
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5e6b9889127aef24f3d2ffa2ccbd21d3ef3a01f8",
+  "prompts": {},
+  "sessions": {
+    "s_7378bc50c40b95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a7b910ee-cc66-4e4d-bba0-78c57deb891b",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
