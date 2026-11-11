@@ -1,0 +1,19 @@
+splitio/proxy/storage/redisstate/resync_test.go
+  s_c07e741d600713::t_6fa7d0fa9b9f28 1261,1264,1267-1281,1284-1285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bcceacaf44317b778c636b32610dbf97936d94a4",
+  "prompts": {},
+  "sessions": {
+    "s_c07e741d600713": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c5e12f9d-5f30-4402-a06f-1b3b94ba6d5e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
