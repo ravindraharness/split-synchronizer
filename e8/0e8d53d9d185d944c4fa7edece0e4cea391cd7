@@ -1,0 +1,198 @@
+splitio/proxy/storage/redisstate/keys_test.go
+  s_dccc7ec8aa198c::t_08dd3b11266222 169-190
+  s_dccc7ec8aa198c::t_01ff6e81b98fe8 10,197-203
+splitio/proxy/storage/redisstate/keys.go
+  s_dccc7ec8aa198c::t_79328c7d2139fb 174-178
+  s_dccc7ec8aa198c::t_4b0008524fbce9 16-17
+  s_dccc7ec8aa198c::t_987ad2b5d8b62b 33
+  s_dccc7ec8aa198c::t_96c5448b183452 51
+splitio/proxy/storage/redisstate/resync_test.go
+  s_dccc7ec8aa198c::t_5708a145d6bcd6 38-39
+  s_8cf351eb49a2fe::t_38ae15669dbec5 863,874,879,883,894,899,907,914,918,929,939,943,970,973,977,984,987,997,999,1003-1004,1018,1021,1026,1030-1032,1039,1041-1104,1108,1118,1125,1131,1135,1139,1156
+  s_dccc7ec8aa198c::t_6072f2a4e5618e 5
+  s_dccc7ec8aa198c::t_dc0b9f03bc4b2a 116-117
+  s_8cf351eb49a2fe::t_7cce93176f129a 860-862
+  s_8cf351eb49a2fe::t_75eaa5c1763888 864-866,871-873
+  s_8cf351eb49a2fe::t_1b03e8c8ceaba8 875-878
+  s_8cf351eb49a2fe::t_04587944698a33 880-882
+  s_8cf351eb49a2fe::t_b98a98f396761b 884-886,891-893
+  s_8cf351eb49a2fe::t_5c2e9b7a774545 895-898
+  s_8cf351eb49a2fe::t_fbd726ea6c738a 900-902,904-906
+  s_8cf351eb49a2fe::t_aa8e6020cca024 908-913
+  s_8cf351eb49a2fe::t_7fcc3eafc11a98 915-917
+  s_8cf351eb49a2fe::t_080d17f9ec884b 919-921,926-928
+  s_8cf351eb49a2fe::t_706f85571c4cdb 930-932,936-938
+  s_8cf351eb49a2fe::t_a773a487733d4e 940-942
+  s_8cf351eb49a2fe::t_3bcbb25778fee5 944-946,967-969
+  s_8cf351eb49a2fe::t_84fa37c25f1c34 971-972
+  s_8cf351eb49a2fe::t_e6d4cbfb3407d2 974-976
+  s_8cf351eb49a2fe::t_b1af025b99f103 978-983
+  s_8cf351eb49a2fe::t_23e65aeda398f3 985-986
+  s_8cf351eb49a2fe::t_ab9a702a903ef5 988-990,994-996
+  s_8cf351eb49a2fe::t_bc189ccd8d0144 998
+  s_8cf351eb49a2fe::t_ad92022172ffe9 1000-1002
+  s_8cf351eb49a2fe::t_c16cdb3bd86fcc 1005-1007,1015-1017
+  s_8cf351eb49a2fe::t_fb2e2d57104cf4 1019-1020
+  s_8cf351eb49a2fe::t_8546cc55c6cfd0 1022-1025
+  s_8cf351eb49a2fe::t_3fe38139a7cc29 1027-1029
+  s_8cf351eb49a2fe::t_ad2f6bc12fb36d 1033-1038
+  s_8cf351eb49a2fe::t_cb306ec78473f4 1040
+  s_8cf351eb49a2fe::t_2f0ac51054da29 1105-1107
+  s_8cf351eb49a2fe::t_90ee790cf8b26c 1109-1111,1115-1117
+  s_8cf351eb49a2fe::t_70e6ec05e8c1a1 1119-1124
+  s_8cf351eb49a2fe::t_b528eafac6e3e1 1126-1130
+  s_8cf351eb49a2fe::t_86f01f97552e1a 1132-1134
+  s_8cf351eb49a2fe::t_eb5bcc899eab18 1136-1138
+  s_8cf351eb49a2fe::t_6ff5b41a77db67 1140-1142,1153-1155
+  s_f04d6e173f0df3::t_28a09b3d4d3451 224,232,867-870,887-890,903,922-925,933-935,947-966,991-993,1008-1014,1112-1114,1143-1152
+splitio/proxy/storage/redisstate/writer.go
+  s_dccc7ec8aa198c::t_85558f423aa8c1 1444-1449
+  s_dccc7ec8aa198c::t_0ed49c73234bd7 1546-1547
+  s_dccc7ec8aa198c::t_61b3e73a952a4e 55-56
+  s_dccc7ec8aa198c::t_be10083ffc01e5 1146-1164
+  s_dccc7ec8aa198c::t_5024ecde593a48 1027-1030,1479,1545
+  s_dccc7ec8aa198c::t_c0e4a130e0393a 1480-1481
+  s_dccc7ec8aa198c::t_0bde9de1657d24 991-992,1005-1014
+  s_dccc7ec8aa198c::t_0a542fff4fe161 123-124
+  s_dccc7ec8aa198c::t_149d2e4acc9353 50-51
+  s_dccc7ec8aa198c::t_f59fcf15fa2afb 481-494
+  s_dccc7ec8aa198c::t_50b318fdddd0a3 1167-1170,1172-1177,1179-1197,1201-1207
+  s_8cf351eb49a2fe::t_979eaaf82674e3 7,72-74,86,175,413,464
+splitio/proxy/storage/redisstate/resync.go
+  s_dccc7ec8aa198c::t_2a68ce1feba3b6 416
+  s_8cf351eb49a2fe::t_5f869215c9844f 327-329
+  s_dccc7ec8aa198c::t_205a675bbbe58b 60-61,63,69-71
+  s_dccc7ec8aa198c::t_17ee595469f0a7 124,159-163,165-166,176-235,264,282,285,313
+  s_dccc7ec8aa198c::t_83f6f11a670cb6 68,99,112,272,294,311,456,458-463,467
+  s_dccc7ec8aa198c::t_35e0a3716c209c 277,283,286,292,330,332
+  s_dccc7ec8aa198c::t_54731364d41361 4
+  s_dccc7ec8aa198c::t_b6286bb8c03775 91-92,94,100-102,110,309
+  s_8cf351eb49a2fe::t_b9f1d45d10e10a 64-67,95-98,109,113,120-123,125,236,239,241,243,248,261,263,265-271,273-276,278-281,284,287-290,293,295,306-308,310,312,314-318
+splitio/proxy/storage/redisstate/writer_test.go
+  s_8cf351eb49a2fe::t_c9a1809c9c5c93 2332-2333
+  s_dccc7ec8aa198c::t_4c1501b9dc32c1 799,802-804
+  s_dccc7ec8aa198c::t_6aa0f9239963dc 719-720,722,725,727-728
+  s_dccc7ec8aa198c::t_9ddb6153ca9d33 1826-1844,1846-1898,1900-1915,1918-1944,1946-1964,1967-1968,1992,2012
+  s_dccc7ec8aa198c::t_9959ebf70634ea 141-151
+  s_dccc7ec8aa198c::t_877f899f92738b 129-132
+  s_8cf351eb49a2fe::t_803f04f1d58864 1560
+  s_dccc7ec8aa198c::t_e9d75d888affa9 7
+  s_dccc7ec8aa198c::t_d73c450b3f4a9c 769,772,780-792,795,806-807
+  s_dccc7ec8aa198c::t_436b8a1c56ba1d 738,745-752,755,758-759,762
+  s_dccc7ec8aa198c::t_8a12e2517aa852 2006,2011,3175-3177,3180-3182,3184,3189,3191-3197,3209,3211-3213
+  s_dccc7ec8aa198c::t_ddcb99e35c8584 904-913,916-917,919-920
+  s_dccc7ec8aa198c::t_f2613f4f31c78d 1558-1559,1564,1571,1577-1579,1581-1582,1587-1590,1592
+  s_dccc7ec8aa198c::t_3a00f57caaed77 1845
+  s_dccc7ec8aa198c::t_14c8202833cebb 1899
+  s_dccc7ec8aa198c::t_c1d147917cf40a 1945
+  s_dccc7ec8aa198c::t_c0572e05cfc747 1989-1991
+  s_dccc7ec8aa198c::t_bb95fe3f451910 1993-1995,2002,2005
+  s_dccc7ec8aa198c::t_674ce55b877551 2007-2010
+  s_dccc7ec8aa198c::t_503d13275302a3 2013
+  s_e566d5822d8150::t_9318fea2bea805 187,1762,1782-1785,1984-1985,1996-2001,2024,2060,2243,2246,2260,2279,2305,2321,2335,3187
+splitio/proxy/storage/redisstate/script_test.go
+  s_dccc7ec8aa198c::t_3f55063105d2ba 814-815,944
+  s_dccc7ec8aa198c::t_e1d3ae05dcda25 790-791
+  s_dccc7ec8aa198c::t_e1d4e819c689e1 783-784
+  s_dccc7ec8aa198c::t_28a021f05c0040 345-367,943
+  s_19a0efb353494c::t_f997df3c3c4239 7,935,942,945
+splitio/proxy/storage/redisstate/script.go
+  s_dccc7ec8aa198c::t_11478909f31372 237
+  s_dccc7ec8aa198c::t_5b075d7fe2609e 162-163
+  s_dccc7ec8aa198c::t_9ee1e4c42164d8 211
+  s_dccc7ec8aa198c::t_1ed84ccde19f30 152
+  s_19a0efb353494c::t_6dccd6cc179ff6 195-203,209-210
+splitio/admin/controllers/observability.go
+  s_7378bc50c40b95::t_3be4b93a533be7 9,49-53,62,68-72,103-107
+splitio/admin/common/config.go
+  s_7378bc50c40b95::t_be943066a96139 6,33-34
+splitio/proxy/redisstate.go
+  s_7378bc50c40b95::t_4b4df5cc5d5685 1-164
+splitio/proxy/storage/splits_test.go
+  s_7378bc50c40b95::t_c884b72c811002 4,15-16,20-28,417-495
+splitio/proxy/storage/persistent/segments_test.go
+  s_7378bc50c40b95::t_f8edb4caa80b99 186-226
+splitio/proxy/storage/segments.go
+  s_8cf351eb49a2fe::t_c967b5ac2687b8 154
+  s_7378bc50c40b95::t_7ad6acd09b941a 10,35-41,155-159,237-251
+splitio/proxy/redisstate_test.go
+  s_7378bc50c40b95::t_eb7b3d910ce0de 1-521,523-645,647-693
+  s_8cf351eb49a2fe::t_1d2aa8a1952bed 522
+  s_8cf351eb49a2fe::t_bf388521a774da 646
+splitio/proxy/initialization_offline.go
+  s_7378bc50c40b95::t_c5527d33135737 75-86,143-144
+splitio/proxy/storage/segments_test.go
+  s_7378bc50c40b95::t_2681c8ee82e8be 4,14,147-291
+splitio/proxy/storage/redissource.go
+  s_7378bc50c40b95::t_37a15f331b3adf 1-120
+splitio/proxy/initialization.go
+  s_7378bc50c40b95::t_9a7c8c3c286903 43-46,117-123,252-254,257-258
+splitio/proxy/storage/rulebasedsegments_test.go
+  s_7378bc50c40b95::t_da9da4af98c69b 184-263
+splitio/proxy/storage/splits.go
+  s_7378bc50c40b95::t_e986ce6ff62e0d 11,40,65-70,135-137
+splitio/admin/controllers/observability_test.go
+  s_7378bc50c40b95::t_d2859eb281bf33 13,231-340
+splitio/proxy/storage/redissource_test.go
+  s_7378bc50c40b95::t_cb756c8be71230 1-192
+splitio/proxy/storage/rulebasedsegments.go
+  s_7378bc50c40b95::t_a1ee89d28166f5 9,33-39,216-218
+splitio/proxy/storage/persistent/segments.go
+  s_7378bc50c40b95::t_e52b71a8ca3e06 200-210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e80e8d53d9d185d944c4fa7edece0e4cea391cd7",
+  "prompts": {},
+  "sessions": {
+    "s_19a0efb353494c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5dc4211d-9aef-4ec3-bf84-9db3bbb489f7",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_7378bc50c40b95": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a7b910ee-cc66-4e4d-bba0-78c57deb891b",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_8cf351eb49a2fe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "44309b4b-d3e7-4e5e-aa1e-65d93f22dfac",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_dccc7ec8aa198c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2ab8185e-8ae7-44de-843c-457bb574e80e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_e566d5822d8150": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a66c4ea67fd42cc9a",
+        "model": "unknown"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    },
+    "s_f04d6e173f0df3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a03dcef849e264774",
+        "model": "unknown"
+      },
+      "human_author": "Ravindra Singh Shekhawat <ravindra.shekhawat@harness.io>"
+    }
+  }
+}
